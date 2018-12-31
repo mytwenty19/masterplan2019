@@ -34,7 +34,7 @@ Use this table to guide your weight goal at the end of each month. It accounts f
 | Nov   |    164      |               |
 | Dec   |    164      |               |
 
-![Weight Goal Chart][weightgoalchart]
+![Weight Goal Chart][weightgoalchart =250x]
 
 [weightgoalchart]: weight_goal_chart.png
 ### Running Goals
