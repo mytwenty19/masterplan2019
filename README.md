@@ -7,9 +7,9 @@ This is a thought cloud for my 2019 plan.
 
 This is a template to record weekly progress: [week_template](week_template.md).
 
-# Fitness
+## Fitness
 
-## Weight
+### Weight
 
 **Start Weight :** 184 lbs
 **Goal Weight  :** 164 lbs
@@ -31,15 +31,15 @@ Use this table to guide your weight goal at the end of each month. It accounts f
 | Nov   |    164      |               |
 | Dec   |    164      |               |
 
-## Running Goals
+### Running Goals
 
 As part of ACL rehabilitation, prepare for and run races.
 
-* **April  :** B.A.A. 5k (*April 13th*)
-* **August :** 10k race (*Goal time 1 hour*)
-* **December** 10k race (*Goal time 50 minutes*)
+* **April    :** B.A.A. 5k (*April 13th*)
+* **August   :** 10k race (*Goal time 1 hour*)
+* **December :** 10k race (*Goal time 50 minutes*)
 
-## Compound Lift Goals
+### Compound Lift Goals
 
 |  Exercise  |  March   |  June   | September | December |
 | ---------- | -------- | ------- | --------- | -------- |
@@ -47,8 +47,17 @@ As part of ACL rehabilitation, prepare for and run races.
 | Deadlift   |  45 lbs  |  90 lbs |  110 lbs  |  135 lbs |
 | Benchpress | 120 lbs  | 135 lbs |  150 lbs  |  160 lbs |
 
-# Career Development
+## Career Development
 
+This is a link to resources:
+* [Coursera Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)
 
+* [Coursera Data Structures](https://www.coursera.org/learn/data-structures)
 
-# Growth
+* [Awesome list of interview questions](https://github.com/MaximAbramchuck/awesome-interview-questions)
+
+## Growth
+
+Populate this list of books as you go:
+* Algorithms to Live by
+
