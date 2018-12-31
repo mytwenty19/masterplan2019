@@ -12,7 +12,9 @@ This is a template to record weekly progress: [week_template](week_template.md).
 ### Weight
 
 **Start Weight :** 184 lbs
+
 **Goal Weight  :** 164 lbs
+
 **Desired Rate :** 4 lbs/month, 1 lbs/week
 
 Use this table to guide your weight goal at the end of each month. It accounts for beginner gains - losing weight is easier at the start and harder as you get to and below 170 lbs. The last 4 months are for maintenance - finding a way to maintain the weight is key.
