@@ -1,4 +1,5 @@
-# MASTER PLAN
+# Master Plan
+
 This is a thought cloud for my 2019 plan.
 
 ![Masterplan][masterplan]
@@ -53,7 +54,8 @@ As part of ACL rehabilitation, prepare for and run races.
 
 **Goal :** 4 hours/week
 
-This is a link to resources:
+Here is a list of resources:
+
 * [Coursera Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)
 
 * [Coursera Data Structures](https://www.coursera.org/learn/data-structures)
