@@ -1,6 +1,6 @@
-# WEEK XX
+# WEEK 01
 
-**Dates:** [xx/xx/2019 - xx/xx/2019]
+**Dates:** [01/01/2019 - 01/06/2019]
 
 ## Fitness
 
