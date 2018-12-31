@@ -16,6 +16,13 @@ This tracks fitness-related activities. Use the Weight/ Rehab/ Gym Session/ Runn
 |   Sat   |        |       |             |         |        |
 |   Sun   |        |       |             |         |        |
 
+### Compound Lifts
+
+| Exercise   | Max Lift  |
+| ---------- | --------- |
+| Squat      |           |
+| Deadlift   |           |
+| Benchpress |           |
 
 ## Career Development
 
