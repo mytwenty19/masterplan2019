@@ -5,4 +5,4 @@ This is a thought cloud for my 2019 plan.
 
 [masterplan]: masterplan.jpg
 
-This is a template to record weekly progress: [weekly_template](weekly_template.md).
+This is a template to record weekly progress: [week_template](week_template.md).
