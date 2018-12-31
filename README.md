@@ -51,6 +51,8 @@ As part of ACL rehabilitation, prepare for and run races.
 
 ## Career Development
 
+**Goal :** 4 hours/week
+
 This is a link to resources:
 * [Coursera Algorithmic Toolbox](https://www.coursera.org/learn/algorithmic-toolbox/home/welcome)
 
@@ -60,6 +62,18 @@ This is a link to resources:
 
 ## Growth
 
+**Goal :**  
+
+* Reading: 2 hours/week
+
+* Meditation: 3 sessions/week
+
 Populate this list of books as you go:
+
 * [Algorithms to Live by](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
 
+Meditation apps:
+
+* [Waking up](https://wakingup.com/)
+
+* [Headspace](https://www.headspace.com/)
