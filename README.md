@@ -34,6 +34,9 @@ Use this table to guide your weight goal at the end of each month. It accounts f
 | Nov   |    164      |               |
 | Dec   |    164      |               |
 
+![Weight Goal Chart][weightgoalchart]
+
+[weightgoalchart]: weightgoalchart.png
 ### Running Goals
 
 As part of ACL rehabilitation, prepare for and run races.
