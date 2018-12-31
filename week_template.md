@@ -1,7 +1,9 @@
 # WEEK XX
+
 **Dates:** [xx/xx/2019 - xx/xx/2019]
 
-##Fitness
+## Fitness
+
 |  Day    | Weight | Rehab | Gym Session | Running |
 | ------- | ------ | ----- | ----------- | ------- |
 |   Mon   |        |       |             |         |
@@ -13,5 +15,6 @@
 |   Sun   |        |       |             |         |
 
 
-##Career Development
-##Personal Growth
+## Career Development
+
+## Personal Growth
