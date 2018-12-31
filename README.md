@@ -59,5 +59,5 @@ This is a link to resources:
 ## Growth
 
 Populate this list of books as you go:
-* Algorithms to Live by
+* [Algorithms to Live by](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
 
