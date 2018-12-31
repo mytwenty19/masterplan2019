@@ -36,7 +36,7 @@ Use this table to guide your weight goal at the end of each month. It accounts f
 
 ![Weight Goal Chart][weightgoalchart]
 
-[weightgoalchart]: weightgoalchart.png
+[weightgoalchart]: weight_goal_chart.png
 ### Running Goals
 
 As part of ACL rehabilitation, prepare for and run races.
