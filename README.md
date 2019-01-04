@@ -76,6 +76,7 @@ Here is a list of resources:
 Populate this list of books as you go:
 
 * [Algorithms to Live by](https://www.goodreads.com/book/show/25666050-algorithms-to-live-by)
+* [Deep Work, Cal Newport](https://www.goodreads.com/book/show/25744928-deep-work)
 
 Meditation apps:
 
