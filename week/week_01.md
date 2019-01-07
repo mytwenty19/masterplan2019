@@ -4,17 +4,17 @@
 
 ## Fitness
 
-This tracks fitness-related activities. Use the Weight/ Rehab/ Gym Session/ Running columns to specify time spent. Use the Diet column to specify whether the day was *good (G)* or *bad (B)*.
+This tracks fitness-related activities. Use the Weight/ Rehab/ Strength/ Running columns to specify time spent. Use the Diet column to specify whether the day was *good (G)* or *bad (B)*.
 
-|  Day    | Weight | Rehab | Gym Session | Running |  Diet  |
-| ------- | ------ | ----- | ----------- | ------- | ------ |
-|   Mon   |        |       |             |         |        |
-|   Tue   |  184   |       |             |         | bad    |
-|   Wed   |  183.4 |       |             |         | good   |
-|   Thurs |  181.2 |  gym  | Y           |  2.21   | good   |
-|   Fri   |  179.8 |       |             |         | bad    |
-|   Sat   |  180.4 |  gym  | Y           |  2.75   | good   |
-|   Sun   |  180.8 |       |             |         |        |
+|  Day    | Weight | Rehab | Strength | Running |  Diet  |
+| ------- | ------ | ----- | -------- | ------- | ------ |
+|   Mon   |        |       |          |         |        |
+|   Tue   |  184   |       |          |         | bad    |
+|   Wed   |  183.4 |       |          |         | good   |
+|   Thurs |  181.2 |  gym  | Y        |  2.21   | good   |
+|   Fri   |  179.8 |       |          |         | bad    |
+|   Sat   |  180.4 |  gym  | Y        |  2.75   | good   |
+|   Sun   |  180.8 |  home | Y        |         | good   |
 
 ### Compound Lifts
 
@@ -54,6 +54,6 @@ This tracks personal growth. Specify number of minutes spent reading. Specify wh
 |   Thurs |  10     |   10       |
 |   Fri   |  15     |            |
 |   Sat   |  15     |            |
-|   Sun   |         |            |
+|   Sun   |  20     |            |
 
 **Book :** Algorithms to Live by
