@@ -4,7 +4,7 @@
 
 ## Fitness
 
-This tracks fitness-related activities. Use the Weight/ Rehab/ Gym Session/ Running columns to specify time spent. Use the Diet column to specify whether the day was *good (G)* or *bad (B)*.
+This tracks fitness-related activities. Use the Weight/ Rehab/ Strength/ Running columns to specify time spent. Use the Diet column to specify whether the day was *good (G)* or *bad (B)*.
 
 |  Day    | Weight | Rehab | Strength | Running |  Diet  |
 | ------- | ------ | ----- | -------- | ------- | ------ |
