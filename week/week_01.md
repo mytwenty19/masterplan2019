@@ -36,7 +36,7 @@ This tracks only non-work related career development efforts. Work-related caree
 |   Thurs |        |        |        |        |
 |   Fri   |        |        |        |        |
 |   Sat   |        |        |        |        |
-|   Sun   |        |        |        |        |
+|   Sun   |        |  1     |        |        |
 
 **Link        :**
 
@@ -54,6 +54,6 @@ This tracks personal growth. Specify number of minutes spent reading. Specify wh
 |   Thurs |  10     |   10       |
 |   Fri   |  15     |            |
 |   Sat   |  15     |            |
-|   Sun   |  20     |            |
+|   Sun   |  20     |   10       |
 
 **Book :** Algorithms to Live by
