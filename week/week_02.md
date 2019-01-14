@@ -8,13 +8,13 @@ This tracks fitness-related activities. Use the Weight/ Rehab/ Strength/ Running
 
 |  Day    | Weight | Rehab | Strength | Running |  Diet  |
 | ------- | ------ | ----- | -------- | ------- | ------ |
-|   Mon   |        |       |          |         |        |
-|   Tue   |        |       |          |         |        |
-|   Wed   |        |       |          |         |        |
-|   Thurs |        |       |          |         |        |
-|   Fri   |        |       |          |         |        |
-|   Sat   |        |       |          |         |        |
-|   Sun   |        |       |          |         |        |
+|   Mon   | 180.2  | gym   |    y     |   2.48  |  good  |
+|   Tue   | 178.6  | gym   |    y     |   1.79  |  good  |
+|   Wed   | 179.2  | home  |    n     |   0     |  good  |
+|   Thurs | 177.8  | gym   |    y     |   2.01  |  okay  |
+|   Fri   | 179.0  |       |    y     |   0     |  bad   |
+|   Sat   | 179.2  |       |    y     |   0     |  good  |
+|   Sun   | 178.8  |       |    n     |   0     |  okay  |
 
 ### Compound Lifts
 
@@ -22,7 +22,7 @@ This tracks fitness-related activities. Use the Weight/ Rehab/ Strength/ Running
 | ---------- | --------- |
 | Squat      |           |
 | Deadlift   |           |
-| Benchpress |           |
+| Benchpress |   125     |
 
 ## Career Development
 
@@ -48,12 +48,12 @@ This tracks personal growth. Specify number of minutes spent reading. Specify wh
 
 |  Day    | Reading | Meditation |
 | ------- | ------- | ---------- |
-|   Mon   |         |            |
-|   Tue   |         |            |
-|   Wed   |         |            |
-|   Thurs |         |            |
-|   Fri   |         |            |
-|   Sat   |         |            |
-|   Sun   |         |            |
+|   Mon   |   45    |            |
+|   Tue   |   15    |            |
+|   Wed   |   35    |    10      |
+|   Thurs |    5    |            |
+|   Fri   |   10    |            |
+|   Sat   |   30    |            |
+|   Sun   |   20    |    10      |
 
-**Book :**
+**Book :** Algorithms to Live by
