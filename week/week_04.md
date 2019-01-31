@@ -8,13 +8,13 @@ This tracks fitness-related activities. Use the Weight/ Rehab/ Strength/ Running
 
 |  Day    | Weight | Rehab | Strength | Running |  Diet  |
 | ------- | ------ | ----- | -------- | ------- | ------ |
-|   Mon   |        |       |          |         |        |
-|   Tue   |        |       |          |         |        |
-|   Wed   |        |       |          |         |        |
-|   Thurs |        |       |          |         |        |
-|   Fri   |        |       |          |         |        |
-|   Sat   |        |       |          |         |        |
-|   Sun   |        |       |          |         |        |
+|   Mon   | 178.8  |       |          |  0      | good   |
+|   Tue   | 177.6  |       |          |  0      | good   |
+|   Wed   | 177.4  |       |   y      |  0      | bad    |
+|   Thurs | 177.8  |       |          |  0      | bad    |
+|   Fri   | 178.2  |       |          |  0      | bad    |
+|   Sat   | 178.7  |       |          |  0      | bad    |
+|   Sun   | 179.1  |       |          |  0      | bad    |
 
 ### Compound Lifts
 
@@ -48,12 +48,12 @@ This tracks personal growth. Specify number of minutes spent reading. Specify wh
 
 |  Day    | Reading | Meditation |
 | ------- | ------- | ---------- |
-|   Mon   |         |            |
-|   Tue   |         |            |
-|   Wed   |         |            |
-|   Thurs |         |            |
-|   Fri   |         |            |
-|   Sat   |         |            |
-|   Sun   |         |            |
+|   Mon   |  10     |            |
+|   Tue   |  10     |            |
+|   Wed   |  10     |            |
+|   Thurs |   0     |            |
+|   Fri   |   0     |            |
+|   Sat   |   0     |            |
+|   Sun   |  30     |            |
 
-**Book :**
+**Book :** Algorithms to live by
