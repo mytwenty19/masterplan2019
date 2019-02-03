@@ -8,13 +8,13 @@ This tracks fitness-related activities. Use the Weight/ Rehab/ Strength/ Running
 
 |  Day    | Weight | Rehab | Strength | Running |  Diet  |
 | ------- | ------ | ----- | -------- | ------- | ------ |
-|   Mon   |        |       |          |         |        |
-|   Tue   |        |       |          |         |        |
-|   Wed   |        |       |          |         |        |
-|   Thurs |        |       |          |         |        |
-|   Fri   |        |       |          |         |        |
-|   Sat   |        |       |          |         |        |
-|   Sun   |        |       |          |         |        |
+|   Mon   | 179.6  | gym   |  n       |  1.7    |  good  |
+|   Tue   | 178.6  | gym   |  y       |  1.9    |  good  |
+|   Wed   | 177.8  | gym   |  n       |  0      |  good  |
+|   Thurs | 178    | gym   |  y       |  2.04   |  good  |
+|   Fri   | 176.4  | none  |  n       |  0      |  okay  |
+|   Sat   | 178    | gym   |  y       |  2.92   |  good  |
+|   Sun   | 178.4  | none  |  n       |  0      |  bad   |
 
 ### Compound Lifts
 
@@ -22,7 +22,7 @@ This tracks fitness-related activities. Use the Weight/ Rehab/ Strength/ Running
 | ---------- | --------- |
 | Squat      |           |
 | Deadlift   |           |
-| Benchpress |           |
+| Benchpress |   125     |
 
 ## Career Development
 
@@ -36,11 +36,11 @@ This tracks only non-work related career development efforts. Work-related caree
 |   Thurs |        |        |        |        |
 |   Fri   |        |        |        |        |
 |   Sat   |        |        |        |        |
-|   Sun   |        |        |        |        |
+|   Sun   |        |   60   |        |        |
 
-**Link        :**
+**Link        :** Coursera Algorithmic Toolbox course
 
-**Description :**
+**Description :** Divide-and-conquer lesson
 
 ## Personal Growth
 
@@ -48,12 +48,12 @@ This tracks personal growth. Specify number of minutes spent reading. Specify wh
 
 |  Day    | Reading | Meditation |
 | ------- | ------- | ---------- |
-|   Mon   |         |            |
-|   Tue   |         |            |
-|   Wed   |         |            |
-|   Thurs |         |            |
-|   Fri   |         |            |
-|   Sat   |         |            |
-|   Sun   |         |            |
+|   Mon   |   10    |            |
+|   Tue   |   0     |            |
+|   Wed   |   30    |     10     |
+|   Thurs |   30    |            |
+|   Fri   |   20    |            |
+|   Sat   |   30    |            |
+|   Sun   |   0     |            |
 
-**Book :**
+**Book :** The Pleasure of Finding Things Out
