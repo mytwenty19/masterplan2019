@@ -54,6 +54,6 @@ This tracks personal growth. Specify number of minutes spent reading. Specify wh
 |   Thurs |   30    |            |
 |   Fri   |   20    |            |
 |   Sat   |   30    |            |
-|   Sun   |   0     |            |
+|   Sun   |   0     |     14     |
 
 **Book :** The Pleasure of Finding Things Out
