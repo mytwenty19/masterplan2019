@@ -8,13 +8,13 @@ This tracks fitness-related activities. Use the Weight/ Rehab/ Strength/ Running
 
 |  Day    | Weight | Rehab | Strength | Running |  Diet  |
 | ------- | ------ | ----- | -------- | ------- | ------ |
-|   Mon   |        |       |          |         |        |
-|   Tue   |        |       |          |         |        |
-|   Wed   |        |       |          |         |        |
-|   Thurs |        |       |          |         |        |
-|   Fri   |        |       |          |         |        |
-|   Sat   |        |       |          |         |        |
-|   Sun   |        |       |          |         |        |
+|   Mon   | 180.4  | gym   |   y      |  0      | good   |
+|   Tue   | 179.2  | gym   |   y      |  2.04   | good   |
+|   Wed   | 178.4  | gym   |   n      |  0      | good   |
+|   Thurs | 178.8  | gym   |   y      |  0      | good   |
+|   Fri   | 177    | none  |   n      |  0      | bad    |
+|   Sat   | 180.2  | none  |   n      |  0      | bad    |
+|   Sun   | 182    |       |          |         | bad    |
 
 ### Compound Lifts
 
@@ -48,12 +48,12 @@ This tracks personal growth. Specify number of minutes spent reading. Specify wh
 
 |  Day    | Reading | Meditation |
 | ------- | ------- | ---------- |
-|   Mon   |         |            |
-|   Tue   |         |            |
-|   Wed   |         |            |
-|   Thurs |         |            |
-|   Fri   |         |            |
-|   Sat   |         |            |
-|   Sun   |         |            |
+|   Mon   | 20      |            |
+|   Tue   | 15      |  16        |
+|   Wed   | 30      |            |
+|   Thurs | 30      |  11        |
+|   Fri   | 15      |            |
+|   Sat   |  0      |            |
+|   Sun   |  0      |            |
 
-**Book :**
+**Book :** The Evolution of Everything
