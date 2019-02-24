@@ -8,13 +8,13 @@ This tracks fitness-related activities. Use the Weight/ Rehab/ Strength/ Running
 
 |  Day    | Weight | Rehab | Strength | Running |  Diet  |
 | ------- | ------ | ----- | -------- | ------- | ------ |
-|   Mon   |        |       |          |         |        |
-|   Tue   |        |       |          |         |        |
-|   Wed   |        |       |          |         |        |
-|   Thurs |        |       |          |         |        |
-|   Fri   |        |       |          |         |        |
-|   Sat   |        |       |          |         |        |
-|   Sun   |        |       |          |         |        |
+|   Mon   |  180   | none  |   n      |   0     |  bad   |
+|   Tue   |  181   | none  |   n      |   0     |  bad   |
+|   Wed   |  182   | gym   |   y      |   2.64  |  good  |
+|   Thurs |  179   | gym   |   y      |   0     |  good  |
+|   Fri   |  178.2 | none  |   n      |   0     |  bad   |
+|   Sat   |  180   | gym   |   y      |   3.11  |  bad   |
+|   Sun   |  181   | none  |   n      |   0     |  bad   |
 
 ### Compound Lifts
 
@@ -48,12 +48,12 @@ This tracks personal growth. Specify number of minutes spent reading. Specify wh
 
 |  Day    | Reading | Meditation |
 | ------- | ------- | ---------- |
-|   Mon   |         |            |
-|   Tue   |         |            |
-|   Wed   |         |            |
-|   Thurs |         |            |
-|   Fri   |         |            |
-|   Sat   |         |            |
-|   Sun   |         |            |
+|   Mon   |   0     |   0        |
+|   Tue   |   0     |   0        |
+|   Wed   |   15    |   0        |
+|   Thurs |   20    |   0        |
+|   Fri   |   40    |   0        |
+|   Sat   |   60    |   0        |
+|   Sun   |   90    |   0        |
 
-**Book :**
+**Book :** Astrophysics for People in a Hurry, Neil de Grasse Tyson

@@ -14,7 +14,7 @@ This tracks fitness-related activities. Use the Weight/ Rehab/ Strength/ Running
 |   Thurs | 178.8  | gym   |   y      |  0      | good   |
 |   Fri   | 177    | none  |   n      |  0      | bad    |
 |   Sat   | 180.2  | none  |   n      |  0      | bad    |
-|   Sun   | 182    |       |          |         | bad    |
+|   Sun   | 181    | gym   |   y      |  0      | bad    |
 
 ### Compound Lifts
 
