@@ -8,13 +8,13 @@ This tracks fitness-related activities. Use the Weight/ Rehab/ Strength/ Running
 
 |  Day    | Weight | Rehab | Strength | Running |  Diet  |
 | ------- | ------ | ----- | -------- | ------- | ------ |
-|   Mon   |        |       |          |         |        |
-|   Tue   |        |       |          |         |        |
-|   Wed   |        |       |          |         |        |
-|   Thurs |        |       |          |         |        |
-|   Fri   |        |       |          |         |        |
-|   Sat   |        |       |          |         |        |
-|   Sun   |        |       |          |         |        |
+|   Mon   |  180.6 | gym   | n        |  3.11   |  good  |
+|   Tue   |  178   | none  | n        |  0      |  good  |
+|   Wed   |  177.6 | gym   | y        |  0      |  good  |
+|   Thurs |  177   | gym   | y        |  3.11   |  good  |
+|   Fri   |  176.4 | none  | n        |  0      |  bad   |
+|   Sat   |  181.2 | none  | n        |  0      |  good  |
+|   Sun   |  178.8 | gym   | y        |  0      |  good  |
 
 ### Compound Lifts
 
@@ -48,12 +48,12 @@ This tracks personal growth. Specify number of minutes spent reading. Specify wh
 
 |  Day    | Reading | Meditation |
 | ------- | ------- | ---------- |
-|   Mon   |         |            |
+|   Mon   | 20      |            |
 |   Tue   |         |            |
 |   Wed   |         |            |
-|   Thurs |         |            |
+|   Thurs |         |  11        |
 |   Fri   |         |            |
 |   Sat   |         |            |
 |   Sun   |         |            |
 
-**Book :**
+**Book :** The Evolution of Life, Matt Ridley
