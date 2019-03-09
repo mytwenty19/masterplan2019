@@ -1,6 +1,6 @@
-# WEEK 08
+# WEEK 10
 
-**Dates:** [02/18/2019 - 02/24/2019]
+**Dates:** [03/04/2019 - 03/10/2019]
 
 ## Fitness
 
@@ -8,13 +8,13 @@ This tracks fitness-related activities. Use the Weight/ Rehab/ Strength/ Running
 
 |  Day    | Weight | Rehab | Strength | Running |  Diet  |
 | ------- | ------ | ----- | -------- | ------- | ------ |
-|   Mon   |  181.5 |  none | n        | 0       |  bad   |
-|   Tue   |  182   |  gym  | y        | 0       |  good  |
-|   Wed   |  180.2 |  gym  | n        | 0       |  good  |
-|   Thurs |  179.6 |  gym  | n        | 3.11    |  good  |
-|   Fri   |  178.4 |  none | n        | 0       |  bad   |
-|   Sat   |  180   |  none | n        | 0       |  bad   |
-|   Sun   |  181.4 |  gym  | y        | 0       |  good  |
+|   Mon   |        |       |          |         |        |
+|   Tue   |        |       |          |         |        |
+|   Wed   |        |       |          |         |        |
+|   Thurs |        |       |          |         |        |
+|   Fri   |        |       |          |         |        |
+|   Sat   |        |       |          |         |        |
+|   Sun   |        |       |          |         |        |
 
 ### Compound Lifts
 
@@ -48,12 +48,12 @@ This tracks personal growth. Specify number of minutes spent reading. Specify wh
 
 |  Day    | Reading | Meditation |
 | ------- | ------- | ---------- |
-|   Mon   |   40    |            |
-|   Tue   |    0    |            |
-|   Wed   |   20    |   11       |
-|   Thurs |   20    |            |
-|   Fri   |   10    |            |
-|   Sat   |   10    |            |
-|   Sun   |   60    |            |
+|   Mon   |         |            |
+|   Tue   |         |            |
+|   Wed   |         |            |
+|   Thurs |         |            |
+|   Fri   |         |            |
+|   Sat   |         |            |
+|   Sun   |         |            |
 
 **Book :**
